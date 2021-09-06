@@ -1,6 +1,6 @@
 ## Credits 
 
-* Source: .[PraveenBhadoo](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index)
+* Source: [PraveenBhadoo](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index)
 * Source: [maple3142](https://github.com/maple3142/GDIndex)
 * Source: [yanzai](https://github.com/yanzai/goindex)
 * New Design: [Bootstrap](https://getbootstrap.com)
